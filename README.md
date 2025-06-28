@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vaibhav Bhardwaj</h1>
-<h3 align="center">Aspiring Full Stack Developer | DSA Enthusiast | B.Tech Student</h3>
+<h3 align="center">Tech Enthusiast | Hungry Learner | B.Tech Final Year Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hpvaibhavofficial&label=Profile%20views&color=0e75b6&style=flat" alt="hpvaibhavofficial" />
